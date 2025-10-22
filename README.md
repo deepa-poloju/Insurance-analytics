@@ -2,8 +2,6 @@
 
 ## 🧮 Excel Dashboard — Insurance Analytics
 
-![Excel Dashboard](./Excel_Dashboard/dashboard_excel.png)
-
 The **Excel Insurance Analytics Dashboard** provides a detailed visualization of key insurance performance indicators, built using pivot tables, slicers, and interactive charts.  
 It enables stakeholders to monitor overall business performance, track policy trends, and evaluate claim outcomes effectively.
 
